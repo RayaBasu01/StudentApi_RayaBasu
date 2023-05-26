@@ -1,0 +1,601 @@
+[
+ {
+    "fname": "Aarav",
+    "lname": "Patel",
+    "email": "aarav.patel@example.com",
+    "roll": 101,
+    "gender": "MALE",
+    "department": "CSE",
+    "cgpa": 8.5
+},
+
+{
+    "fname": "Aanya",
+    "lname": "Sharma",
+    "email": "aanya.sharma@example.com",
+    "roll": 102,
+    "gender": "FEMALE",
+    "department": "IT",
+    "cgpa": 9.2
+},
+
+{
+    "fname": "Aarush",
+    "lname": "Gupta",
+    "email": "aarush.gupta@example.com",
+    "roll": 103,
+    "gender": "MALE",
+    "department": "CSBS",
+    "cgpa": 9.7
+},
+
+{
+    "fname": "Ananya",
+    "lname": "Verma",
+    "email": "ananya.verma@example.com",
+    "roll": 104,
+    "gender": "FEMALE",
+    "department": "EE",
+    "cgpa": 8.9
+},
+
+{
+    "fname": "Advait",
+    "lname": "Singh",
+    "email": "advait.singh@example.com",
+    "roll": 105,
+    "gender": "MALE",
+    "department": "ECE",
+    "cgpa": 8.7
+},
+
+{
+    "fname": "Aisha",
+    "lname": "Shah",
+    "email": "aisha.shah@example.com",
+    "roll": 106,
+    "gender": "FEMALE",
+    "department": "ME",
+    "cgpa": 7.8
+},
+
+{
+    "fname": "Arjun",
+    "lname": "Kumar",
+    "email": "arjun.kumar@example.com",
+    "roll": 107,
+    "gender": "MALE",
+    "department": "CE",
+    "cgpa": 9.1
+},
+
+{
+    "fname": "Diya",
+    "lname": "Jain",
+    "email": "diya.jain@example.com",
+    "roll": 108,
+    "gender": "FEMALE",
+    "department": "CSE",
+    "cgpa": 8.3
+},
+
+{
+    "fname": "Advik",
+    "lname": "Sharma",
+    "email": "advik.sharma@example.com",
+    "roll": 109,
+    "gender": "MALE",
+    "department": "IT",
+    "cgpa": 9.5
+},
+
+{
+    "fname": "Ishani",
+    "lname": "Pandey",
+    "email": "ishani.pandey@example.com",
+    "roll": 110,
+    "gender": "FEMALE",
+    "department": "CSBS",
+    "cgpa": 7.9
+},
+
+{
+    "fname": "Atharv",
+    "lname": "Rao",
+    "email": "atharv.rao@example.com",
+    "roll": 111,
+    "gender": "MALE",
+    "department": "EE",
+    "cgpa": 8.6
+},
+
+{
+    "fname": "Avni",
+    "lname": "Das",
+    "email": "avni.das@example.com",
+    "roll": 112,
+    "gender": "FEMALE",
+    "department": "ECE",
+    "cgpa": 9.3
+},
+
+{
+    "fname": "Aryan",
+    "lname": "Choudhury",
+    "email": "aryan.choudhury@example.com",
+    "roll": 113,
+    "gender": "MALE",
+    "department": "ME",
+    "cgpa": 9.8
+},
+
+{
+    "fname": "Divya",
+    "lname": "Biswas",
+    "email": "divya.biswas@example.com",
+    "roll": 114,
+    "gender": "FEMALE",
+    "department": "CE",
+    "cgpa": 8.4
+},
+
+{
+    "fname": "Ayush",
+    "lname": "Sinha",
+    "email": "ayush.sinha@example.com",
+    "roll": 115,
+    "gender": "MALE",
+    "department": "CSE",
+    "cgpa": 9.6
+},
+
+{
+    "fname": "Eesha",
+    "lname": "Mishra",
+    "email": "eesha.mishra@example.com",
+    "roll": 116,
+    "gender": "FEMALE",
+    "department": "IT",
+    "cgpa": 7.6
+},
+
+{
+    "fname": "Aditya",
+    "lname": "Reddy",
+    "email": "aditya.reddy@example.com",
+    "roll": 117,
+    "gender": "MALE",
+    "department": "CSBS",
+    "cgpa": 8.2
+},
+
+{
+    "fname": "Kavya",
+    "lname": "Sharma",
+    "email": "kavya.sharma@example.com",
+    "roll": 118,
+    "gender": "FEMALE",
+    "department": "EE",
+    "cgpa": 9.4
+},
+
+{
+    "fname": "Aniket",
+    "lname": "Gupta",
+    "email": "aniket.gupta@example.com",
+    "roll": 119,
+    "gender": "MALE",
+    "department": "ECE",
+    "cgpa": 8.1
+},
+
+{
+    "fname": "Gayatri",
+    "lname": "Nair",
+    "email": "gayatri.nair@example.com",
+    "roll": 120,
+    "gender": "FEMALE",
+    "department": "ME",
+    "cgpa": 7.7
+},
+
+{
+    "fname": "Aaradhya",
+    "lname": "Bhatnagar",
+    "email": "aaradhya.bhatnagar@example.com",
+    "roll": 121,
+    "gender": "FEMALE",
+    "department": "CE",
+    "cgpa": 8.7
+},
+
+{
+    "fname": "Advay",
+    "lname": "Rajput",
+    "email": "advay.rajput@example.com",
+    "roll": 122,
+    "gender": "MALE",
+    "department": "CSE",
+    "cgpa": 9.2
+},
+
+{
+    "fname": "Anvi",
+    "lname": "Srivastava",
+    "email": "anvi.srivastava@example.com",
+    "roll": 123,
+    "gender": "FEMALE",
+    "department": "IT",
+    "cgpa": 8.9
+},
+
+{
+    "fname": "Amit",
+    "lname": "Malhotra",
+    "email": "amit.malhotra@example.com",
+    "roll": 124,
+    "gender": "MALE",
+    "department": "CSBS",
+    "cgpa": 7.8
+},
+
+{
+    "fname": "Dhriti",
+    "lname": "Rathore",
+    "email": "dhriti.rathore@example.com",
+    "roll": 125,
+    "gender": "FEMALE",
+    "department": "EE",
+    "cgpa": 8.5
+},
+
+{
+    "fname": "Ayaan",
+    "lname": "Chopra",
+    "email": "ayaan.chopra@example.com",
+    "roll": 126,
+    "gender": "MALE",
+    "department": "ECE",
+    "cgpa": 9.7
+},
+
+{
+    "fname": "Drishti",
+    "lname": "Shukla",
+    "email": "drishti.shukla@example.com",
+    "roll": 127,
+    "gender": "FEMALE",
+    "department": "ME",
+    "cgpa": 8.3
+},
+
+{
+    "fname": "Aarush",
+    "lname": "Deshpande",
+    "email": "aarush.deshpande@example.com",
+    "roll": 128,
+    "gender": "MALE",
+    "department": "CE",
+    "cgpa": 9.1
+},
+
+{
+    "fname": "Avika",
+    "lname": "Raj",
+    "email": "avika.raj@example.com",
+    "roll": 129,
+    "gender": "FEMALE",
+    "department": "CSE",
+    "cgpa": 7.9
+},
+
+{
+    "fname": "Arjun",
+    "lname": "Pillai",
+    "email": "arjun.pillai@example.com",
+    "roll": 130,
+    "gender": "MALE",
+    "department": "IT",
+    "cgpa": 8.6
+},
+
+{
+    "fname": "Anika",
+    "lname": "Saxena",
+    "email": "anika.saxena@example.com",
+    "roll": 131,
+    "gender": "FEMALE",
+    "department": "CSBS",
+    "cgpa": 9.5
+},
+
+{
+    "fname": "Aayush",
+    "lname": "Shah",
+    "email": "aayush.shah@example.com",
+    "roll": 132,
+    "gender": "MALE",
+    "department": "EE",
+    "cgpa": 8.4
+},
+
+{
+    "fname": "Gauri",
+    "lname": "Nath",
+    "email": "gauri.nath@example.com",
+    "roll": 133,
+    "gender": "FEMALE",
+    "department": "ECE",
+    "cgpa": 9.3
+},
+
+{
+    "fname": "Arun",
+    "lname": "Kapoor",
+    "email": "arun.kapoor@example.com",
+    "roll": 134,
+    "gender": "MALE",
+    "department": "ME",
+    "cgpa": 8.2
+},
+
+{
+    "fname": "Ishita",
+    "lname": "Biswas",
+    "email": "ishita.biswas@example.com",
+    "roll": 135,
+    "gender": "FEMALE",
+    "department": "CE",
+    "cgpa": 9.4
+},
+
+{
+    "fname": "Arnav",
+    "lname": "Nair",
+    "email": "arnav.nair@example.com",
+    "roll": 136,
+    "gender": "MALE",
+    "department": "CSE",
+    "cgpa": 8.1
+},
+
+{
+    "fname": "Harini",
+    "lname": "Sharma",
+    "email": "harini.sharma@example.com",
+    "roll": 137,
+    "gender": "FEMALE",
+    "department": "IT",
+    "cgpa": 7.7
+},
+
+{
+    "fname": "Kabir",
+    "lname": "Rathod",
+    "email": "kabir.rathod@example.com",
+    "roll": 138,
+    "gender": "MALE",
+    "department": "CSBS",
+    "cgpa": 8.7
+},
+
+{
+    "fname": "Ishika",
+    "lname": "Pandit",
+    "email": "ishika.pandit@example.com",
+    "roll": 139,
+    "gender": "FEMALE",
+    "department": "EE",
+    "cgpa": 9.6
+},
+
+{
+    "fname": "Ayaansh",
+    "lname": "Chakraborty",
+    "email": "ayaansh.chakraborty@example.com",
+    "roll": 140,
+    "gender": "MALE",
+    "department": "ECE",
+    "cgpa": 8.9
+},
+
+{
+    "fname": "Harshita",
+    "lname": "Iyer",
+    "email": "harshita.iyer@example.com",
+    "roll": 141,
+    "gender": "FEMALE",
+    "department": "ME",
+    "cgpa": 7.8
+},
+
+{
+    "fname": "Advika",
+    "lname": "Roy",
+    "email": "advika.roy@example.com",
+    "roll": 142,
+    "gender": "FEMALE",
+    "department": "CE",
+    "cgpa": 8.7
+},
+
+{
+    "fname": "Aaditya",
+    "lname": "Kumar",
+    "email": "aaditya.kumar@example.com",
+    "roll": 143,
+    "gender": "MALE",
+    "department": "CSE",
+    "cgpa": 9.2
+},
+
+{
+    "fname": "Anika",
+    "lname": "Srivastava",
+    "email": "anika.srivastava@example.com",
+    "roll": 144,
+    "gender": "FEMALE",
+    "department": "IT",
+    "cgpa": 8.9
+},
+
+{
+    "fname": "Daksh",
+    "lname": "Shukla",
+    "email": "daksh.shukla@example.com",
+    "roll": 145,
+    "gender": "MALE",
+    "department": "CSBS",
+    "cgpa": 7.8
+},
+
+{
+    "fname": "Dhriti",
+    "lname": "Iyer",
+    "email": "dhriti.iyer@example.com",
+    "roll": 146,
+    "gender": "FEMALE",
+    "department": "EE",
+    "cgpa": 8.5
+},
+
+{
+    "fname": "Aahana",
+    "lname": "Chakraborty",
+    "email": "aahana.chakraborty@example.com",
+    "roll": 147,
+    "gender": "FEMALE",
+    "department": "ECE",
+    "cgpa": 9.7
+},
+
+{
+    "fname": "Dhruv",
+    "lname": "Rathore",
+    "email": "dhruv.rathore@example.com",
+    "roll": 148,
+    "gender": "MALE",
+    "department": "ME",
+    "cgpa": 8.3
+},
+
+{
+    "fname": "Aarav",
+    "lname": "Nair",
+    "email": "aarav.nair@example.com",
+    "roll": 149,
+    "gender": "MALE",
+    "department": "CE",
+    "cgpa": 9.1
+},
+
+{
+    "fname": "Diya",
+    "lname": "Saxena",
+    "email": "diya.saxena@example.com",
+    "roll": 150,
+    "gender": "FEMALE",
+    "department": "CSE",
+    "cgpa": 7.9
+},
+
+{
+    "fname": "Aarush",
+    "lname": "Verma",
+    "email": "aarush.verma@example.com",
+    "roll": 151,
+    "gender": "MALE",
+    "department": "IT",
+    "cgpa": 8.6
+},
+
+{
+    "fname": "Ananya",
+    "lname": "Sharma",
+    "email": "ananya.sharma@example.com",
+    "roll": 152,
+    "gender": "FEMALE",
+    "department": "CSBS",
+    "cgpa": 9.5
+},
+
+{
+    "fname": "Aditya",
+    "lname": "Singh",
+    "email": "aditya.singh@example.com",
+    "roll": 153,
+    "gender": "MALE",
+    "department": "EE",
+    "cgpa": 8.4
+},
+
+{
+    "fname": "Gauri",
+    "lname": "Sharma",
+    "email": "gauri.sharma@example.com",
+    "roll": 154,
+    "gender": "FEMALE",
+    "department": "ECE",
+    "cgpa": 9.3
+},
+
+{
+    "fname": "Aarav",
+    "lname": "Gupta",
+    "email": "aarav.gupta@example.com",
+    "roll": 155,
+    "gender": "MALE",
+    "department": "ME",
+    "cgpa": 8.2
+},
+
+{
+    "fname": "Ishika",
+    "lname": "Chopra",
+    "email": "ishika.chopra@example.com",
+    "roll": 156,
+    "gender": "FEMALE",
+    "department": "CE",
+    "cgpa": 9.4
+},
+
+{
+    "fname": "Aryan",
+    "lname": "Nair",
+    "email": "aryan.nair@example.com",
+    "roll": 157,
+    "gender": "MALE",
+    "department": "CSE",
+    "cgpa": 8.1
+},
+
+{
+    "fname": "Riya",
+    "lname": "Sharma",
+    "email": "riya.sharma@example.com",
+    "roll": 158,
+    "gender": "FEMALE",
+    "department": "IT",
+    "cgpa": 7.7
+},
+
+{
+    "fname": "Vihaan",
+    "lname": "Srivastava",
+    "email": "vihaan.srivastava@example.com",
+    "roll": 159,
+    "gender": "MALE",
+    "department": "CSBS",
+    "cgpa": 8.7
+},
+
+{
+    "fname": "Myra",
+    "lname": "Roy",
+    "email": "myra.roy@example.com",
+    "roll": 160,
+    "gender": "FEMALE",
+    "department": "EE",
+    "cgpa": 9.6
+}
+]
