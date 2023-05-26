@@ -3,6 +3,8 @@
 
 This backend APIs responsible for loading student details with pagination, and implementing server-side filtering.
 
+### https://studentapirbkinaracapital-production.up.railway.app/api/students
+
 ## Tech Stack
 
 **Server:** Express.js, Node.js, MongoDB Atlas, Railway(for hosting).
