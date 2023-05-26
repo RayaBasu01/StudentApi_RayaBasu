@@ -1,1 +1,1 @@
-# Kinara-Capital-student-api-assing-
+# Kinara-Capital-student-api-assing
