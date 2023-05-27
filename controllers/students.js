@@ -26,12 +26,15 @@ const getAllStudents = async(req,res)=>{
         data=data.sort(sorted);
     }
 
-    let page = Number(req.query.page) || 1;
-    let limit = Number(req.query.limit) ||10;
 
-    let skip = (page -  1 )*limit;
+    /* API Pagination */
+    // let page = Number(req.query.page) || 1;
+    // let limit = Number(req.query.limit) ||10;
 
-    data=data.skip(skip).limit(limit);
+    // let skip = (page -  1 )*limit;
+
+    // data=data.skip(skip).limit(limit);
+
 
 
     const StudentData= await data; 
