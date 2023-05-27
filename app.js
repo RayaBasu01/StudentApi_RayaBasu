@@ -8,7 +8,7 @@ require("dotenv").config();
 const students_routes = require("./routes/students")
 
 app.get("/", (req,res)=>{
-    res.send("HEllo world");
+    res.send("API is live. Just follow the route api/students after the link in the url to access it seamlessly");
 })
 
 
