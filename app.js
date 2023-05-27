@@ -3,12 +3,15 @@ const app = express();
 const PORT = process.env.PORT || 8080 ;
 const connDb=require("./db/connect");
 require("dotenv").config();
-
+const cors=require("cors")
+app.use(cors({
+    origin:'*'
+}))
 
 const students_routes = require("./routes/students")
 
 app.get("/", (req,res)=>{
-    res.send("API is live. Just follow the route api/students after the link in the url to access it seamlessly");
+    res.send("HEllo world");
 })
 
 

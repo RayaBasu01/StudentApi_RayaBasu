@@ -3,7 +3,7 @@ const student= require("../models/schema");
 
 const getAllStudents = async(req,res)=>{
 
-    const {department, fname,lname, roll } =req.query;
+    const {department, fname,lname, roll ,gender,sort } =req.query;
     const queryObj={};
 
     if(department){
@@ -19,7 +19,12 @@ const getAllStudents = async(req,res)=>{
         queryObj.roll=roll;
     }
 
-    let data=student.find(queryObj).sort("roll");   //for getting all data from database
+    let data=student.find(queryObj);   //for getting all data from database
+
+    if(sort){
+        let sorted=sort.replace(","," ");
+        data=data.sort(sorted);
+    }
 
     let page = Number(req.query.page) || 1;
     let limit = Number(req.query.limit) ||10;
@@ -31,14 +36,14 @@ const getAllStudents = async(req,res)=>{
 
     const StudentData= await data; 
     console.log(req.query);
-    res.status(200).json({StudentData})
+    res.status(200).json({StudentData, nbHits:StudentData.length})
 
 };
 
 
 const getAllStudentsTesting = async(req,res)=>{
 
-    const {department, fname,lname, roll } =req.query;
+    const {department, fname,lname, roll,gender,sort } =req.query;
     const queryObj={};
 
     if(department){
@@ -53,9 +58,15 @@ const getAllStudentsTesting = async(req,res)=>{
     if(roll){
         queryObj.roll=roll;
     }
-
-    let data=student.find(queryObj).sort("roll");   //for getting all data from database
-
+    if(gender){
+        queryObj.gender=gender;
+    }
+    let data=student.find(queryObj)
+    if(sort){
+        let sorted=sort.replace(","," ");
+        data=data.sort(sorted);
+    }
+       
     let page = Number(req.query.page) || 1;
     let limit = Number(req.query.limit) ||10;
 
