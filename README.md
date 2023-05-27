@@ -98,3 +98,8 @@ Yes, it has both free and paid version.
 
 #### What are the steps of hosting?
 At first signup to Cyclic and then connect your GitHub account to it. Then select the repo and enter the Environment variables required. After that start deploying and it will be live if the folder structure and the product is fine. Click on the link and enjoy your API. 
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at raya.basu.01@gmail.com
