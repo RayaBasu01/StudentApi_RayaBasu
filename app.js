@@ -11,7 +11,7 @@ app.use(cors({
 const students_routes = require("./routes/students")
 
 app.get("/", (req,res)=>{
-    res.send("HEllo world");
+    res.send('API is ready!! visit "/api/students" after the link to visit it');
 })
 
 
