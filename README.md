@@ -3,11 +3,11 @@
 
 This backend APIs responsible for loading student details with pagination, and implementing server-side filtering.
 
-### https://studentapirbkinaracapital-production.up.railway.app/api/students
+### [Link to the API](https://fine-blue-sawfish-yoke.cyclic.app/api/students)
 
 ## Tech Stack
 
-**Server:** Express.js, Node.js, MongoDB Atlas, Railway(for hosting).
+**Server:** Express.js, Node.js, MongoDB Atlas, Cyclic(for hosting).
 
 **Tool:** Postman, VS Code.
 
@@ -92,9 +92,9 @@ To obtain the URL for database connectivity from MongoDB Atlas, follow these ste
 
 Ensure that you follow the appropriate security measures, such as using environment variables to store sensitive information like passwords, to protect your database credentials.
 
-#### Is Railway free for hosting?
+#### Is Cyclic free for hosting?
 
-Yes, its free for 500 Hours only, after that you have to pay $5.
+Yes, it has both free and paid version. 
 
-#### What will happen after 500 Hours?
-After 500 Hours, to use the API you have to run it localy in your machine.
+#### What are the steps of hosting?
+At first signup to Cyclic and then connect your GitHub account to it. Then select the repo and enter the Environment variables required. After that start deploying and it will be live if the folder structure and the product is fine. Click on the link and enjoy your API. 
