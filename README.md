@@ -1,5 +1,5 @@
 
-# KINARA CAPITAL ASSINGMENT (API)
+# Student Database (API)
 
 This backend APIs responsible for loading student details with pagination, and implementing server-side filtering.
 
@@ -25,7 +25,7 @@ This backend APIs responsible for loading student details with pagination, and i
 Clone the repository:
 
 ```bash
-  git clone https://github.com/RayaBasu01/StudentApiRB_KinaraCapital.git
+  git clone https://github.com/RayaBasu01/StudentApi_RayaBasu.git
 
 ```
     
@@ -50,7 +50,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://github.com/RayaBasu01/StudentApiRB_KinaraCapital.git
+  git clone https://github.com/RayaBasu01/StudentApi_RayaBasu.git
 ```
 
 Go to the project directory
